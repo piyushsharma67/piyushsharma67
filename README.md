@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm piyush</h1>
+<h1 align="center">Hi 👋, I'm Piyush Sharma</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I’m currently working on [my own inmemory db implementation in go](https://github.com/piyushsharma67/InMemoryDBWithACIDProps/tree/master)
+- 🔭 I’m currently working on [my own InMemory db implementation in Go(ACID Properties)](https://github.com/piyushsharma67/InMemoryDBWithACIDProps/tree/master)
 
-- 👯 I’m looking to collaborate on [inmemory db implementation in go](https://github.com/piyushsharma67/InMemoryDBWithACIDProps/tree/master)
+- 🌱 I’m currently learning **Design patterns,Concurrency,Microservice Architechture and Patterns**
+
+- 🤝 I’m looking for help with [InMemory DB implementation in Go](https://github.com/piyushsharma67/InMemoryDBWithACIDProps/tree/master)
+
+- 📫 How to reach me **piyush67.sharma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
