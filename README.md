@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Design patterns,Concurrency,Microservice Architechture and Patterns**
 
-- 🤝 I’m looking for help with [InMemory DB implementation in Go](https://github.com/piyushsharma67/InMemoryDBWithACIDProps/tree/master)
+- 🤝 I’m looking for help with [Events Booking](https://github.com/piyushsharma67/events_booking/master)
 
 - 📫 How to reach me **piyush67.sharma@gmail.com**
 
